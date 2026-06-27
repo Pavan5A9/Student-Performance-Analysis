@@ -412,20 +412,3 @@ pip install pandas numpy matplotlib
 ✔ Improved understanding of EDA and visualization.
 
 ---
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Push your branch.
-5. Open a Pull Request.
-
----
-
-
-Made with ❤️ by **Patturi Pavan Kumar**
-
-</div>
